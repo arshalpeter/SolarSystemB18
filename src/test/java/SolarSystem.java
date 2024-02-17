@@ -13,7 +13,7 @@ public class SolarSystem {
         planet2 gecko =new planet2();
         gecko.color="magenta";
         gecko.temp="34343443434k";
-        gecko.size="342344342m";git 
+        gecko.size="342344342m";
 
 
     }
